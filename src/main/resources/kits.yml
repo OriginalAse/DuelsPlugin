@@ -1,0 +1,25 @@
+default_kit: "warrior"
+kits:
+  warrior:
+    armor:
+      helmet:
+        material: "LEATHER_HELMET"
+      chestplate:
+        material: "LEATHER_CHESTPLATE"
+      leggings:
+        material: "LEATHER_LEGGINGS"
+      boots:
+        material: "LEATHER_BOOTS"
+    inventory:
+      0:
+        material: "WOODEN_SWORD"
+        amount: 1
+   legend:
+     armor:
+       helmet:
+         material: "DIAMOND_HELMET"
+       chestplate:
+         material: "DIAMOND_CHESTPLATE"
+       leggings:
+       boots:
+         material: "DIAMOND_BOOTS"

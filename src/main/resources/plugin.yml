@@ -1,0 +1,11 @@
+name: DuelsPlugin
+version: '${project.version}'
+main: me.rishabhvenu.duelsplugin.DuelsPlugin
+authors: [ TheOriginalAse ]
+api-version: 1.17
+description: Duels Plugin
+website: https://originalase.github.io
+commands:
+  duel:
+  accept:
+  stats:

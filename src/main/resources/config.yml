@@ -1,0 +1,6 @@
+MySQL:
+  host: "https://localhost/"
+  port: 3306
+  database: "duels"
+  username: "username"
+  password: "password"
